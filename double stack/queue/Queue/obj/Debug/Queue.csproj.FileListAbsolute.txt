@@ -1,0 +1,30 @@
+D:\Salman\RUPPIN\2023\Mivne_Netoneem\סמסטר ב\03_Queue\03_Targil04_Solution\Queue\bin\Debug\Queue.exe.config
+D:\Salman\RUPPIN\2023\Mivne_Netoneem\סמסטר ב\03_Queue\03_Targil04_Solution\Queue\bin\Debug\Queue.exe
+D:\Salman\RUPPIN\2023\Mivne_Netoneem\סמסטר ב\03_Queue\03_Targil04_Solution\Queue\bin\Debug\Queue.pdb
+D:\Salman\RUPPIN\2023\Mivne_Netoneem\סמסטר ב\03_Queue\03_Targil04_Solution\Queue\obj\Debug\Queue.csprojAssemblyReference.cache
+D:\Salman\RUPPIN\2023\Mivne_Netoneem\סמסטר ב\03_Queue\03_Targil04_Solution\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+D:\Salman\RUPPIN\2023\Mivne_Netoneem\סמסטר ב\03_Queue\03_Targil04_Solution\Queue\obj\Debug\Queue.exe
+D:\Salman\RUPPIN\2023\Mivne_Netoneem\סמסטר ב\03_Queue\03_Targil04_Solution\Queue\obj\Debug\Queue.pdb
+D:\Salman\RUPPIN\2023\Mivne_Netoneem\סמסטר ב\03_Queue\03_Targil05_Solution\Queue\bin\Debug\Queue.exe.config
+D:\Salman\RUPPIN\2023\Mivne_Netoneem\סמסטר ב\03_Queue\03_Targil05_Solution\Queue\bin\Debug\Queue.exe
+D:\Salman\RUPPIN\2023\Mivne_Netoneem\סמסטר ב\03_Queue\03_Targil05_Solution\Queue\bin\Debug\Queue.pdb
+D:\Salman\RUPPIN\2023\Mivne_Netoneem\סמסטר ב\03_Queue\03_Targil05_Solution\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+D:\Salman\RUPPIN\2023\Mivne_Netoneem\סמסטר ב\03_Queue\03_Targil05_Solution\Queue\obj\Debug\Queue.exe
+D:\Salman\RUPPIN\2023\Mivne_Netoneem\סמסטר ב\03_Queue\03_Targil05_Solution\Queue\obj\Debug\Queue.pdb
+D:\Salman\RUPPIN\2023\Mivne_Netoneem\סמסטר ב\03_Queue\03_Targil05_Solution\Queue\obj\Debug\Queue.csprojAssemblyReference.cache
+D:\salman\queue\05_Targil05_Solution\Queue\bin\Debug\Queue.exe.config
+D:\salman\queue\05_Targil05_Solution\Queue\bin\Debug\Queue.exe
+D:\salman\queue\05_Targil05_Solution\Queue\bin\Debug\Queue.pdb
+D:\salman\queue\05_Targil05_Solution\Queue\obj\Debug\Queue.csproj.AssemblyReference.cache
+D:\salman\queue\05_Targil05_Solution\Queue\obj\Debug\Queue.csproj.SuggestedBindingRedirects.cache
+D:\salman\queue\05_Targil05_Solution\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+D:\salman\queue\05_Targil05_Solution\Queue\obj\Debug\Queue.exe
+D:\salman\queue\05_Targil05_Solution\Queue\obj\Debug\Queue.pdb
+C:\Users\Yarden\source\repos\queue\Queue\bin\Debug\Queue.exe.config
+C:\Users\Yarden\source\repos\queue\Queue\bin\Debug\Queue.exe
+C:\Users\Yarden\source\repos\queue\Queue\bin\Debug\Queue.pdb
+C:\Users\Yarden\source\repos\queue\Queue\obj\Debug\Queue.csproj.AssemblyReference.cache
+C:\Users\Yarden\source\repos\queue\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\Yarden\source\repos\queue\Queue\obj\Debug\Queue.exe
+C:\Users\Yarden\source\repos\queue\Queue\obj\Debug\Queue.pdb
+C:\Users\Yarden\source\repos\queue\Queue\obj\Debug\Queue.csproj.SuggestedBindingRedirects.cache
