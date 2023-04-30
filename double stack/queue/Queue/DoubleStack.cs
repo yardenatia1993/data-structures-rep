@@ -70,6 +70,10 @@ namespace Queue
             int minValue = source.Top();
             while (source.NumberOfItems() > 0)
             {
+                //firstStack: [5,10,1,8,12,7,15,11]
+                //second stack:[1,7,3,12]
+                //temp=[5,10,1,8,12,7,15,11]
+                //min val=1
                 int value = source.Pop();
                 if (value < minValue)
                 {
@@ -92,6 +96,12 @@ namespace Queue
                     source.Push(value);
                 }
             }
+        }
+
+        public override string ToString()
+        {
+            return $@"firstStack: {firstStack}
+second stack:{secStack}";
         }
     }
 }

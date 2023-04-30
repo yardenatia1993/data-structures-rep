@@ -28,3 +28,11 @@ C:\Users\Yarden\source\repos\queue\Queue\obj\Debug\Queue.csproj.CoreCompileInput
 C:\Users\Yarden\source\repos\queue\Queue\obj\Debug\Queue.exe
 C:\Users\Yarden\source\repos\queue\Queue\obj\Debug\Queue.pdb
 C:\Users\Yarden\source\repos\queue\Queue\obj\Debug\Queue.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\GitHub\data-structures-rep\double stack\queue\Queue\bin\Debug\Queue.exe.config
+C:\Users\User\Documents\GitHub\data-structures-rep\double stack\queue\Queue\bin\Debug\Queue.exe
+C:\Users\User\Documents\GitHub\data-structures-rep\double stack\queue\Queue\bin\Debug\Queue.pdb
+C:\Users\User\Documents\GitHub\data-structures-rep\double stack\queue\Queue\obj\Debug\Queue.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\data-structures-rep\double stack\queue\Queue\obj\Debug\Queue.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\GitHub\data-structures-rep\double stack\queue\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\data-structures-rep\double stack\queue\Queue\obj\Debug\Queue.exe
+C:\Users\User\Documents\GitHub\data-structures-rep\double stack\queue\Queue\obj\Debug\Queue.pdb
