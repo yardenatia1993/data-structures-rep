@@ -78,8 +78,21 @@ namespace Main
             Console.WriteLine(db.secStack.ToString());
             Console.WriteLine(db.NumElements(1));
             Console.WriteLine(db.NumElements(2));
+            Console.WriteLine(db);
+            Console.WriteLine("move from to");
             db.Move(1);
-            Console.WriteLine($"first stack :{db.firstStack.ToString()},sec stack:{db.secStack.ToString()}");
+            Console.WriteLine(db.ToString());
+            Console.WriteLine("move min val from to");
+            db.MoveMin(1);
+            Console.WriteLine(db.ToString());
+            Queue<int> q = new Queue<int>();
+            q.Insert(1);
+            q.Insert(2);
+            q.Insert(3);
+            q.Insert(1);
+            q.Insert(4);
+            Console.WriteLine(q);
+            Console.WriteLine(GetDuplicateElements(q));
             Console.ReadKey();
         }
         public static bool IsUniqStack(Stack<int> stack)
