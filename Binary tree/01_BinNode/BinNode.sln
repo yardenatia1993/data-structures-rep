@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinNode", "BinNode\BinNode.csproj", "{0415CD01-1A57-4AFB-9172-380027232A7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0415CD01-1A57-4AFB-9172-380027232A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0415CD01-1A57-4AFB-9172-380027232A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0415CD01-1A57-4AFB-9172-380027232A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0415CD01-1A57-4AFB-9172-380027232A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A96744EB-57C3-43D8-AA61-E1A8FE5F9000}
+	EndGlobalSection
+EndGlobal

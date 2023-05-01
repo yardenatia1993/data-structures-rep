@@ -1,0 +1,15 @@
+d:\BinNode\BinNode\bin\Debug\BinNode.exe.config
+d:\BinNode\BinNode\bin\Debug\BinNode.exe
+d:\BinNode\BinNode\bin\Debug\BinNode.pdb
+d:\BinNode\BinNode\obj\Debug\BinNode.csproj.AssemblyReference.cache
+d:\BinNode\BinNode\obj\Debug\BinNode.csproj.SuggestedBindingRedirects.cache
+d:\BinNode\BinNode\obj\Debug\BinNode.csproj.CoreCompileInputs.cache
+d:\BinNode\BinNode\obj\Debug\BinNode.exe
+d:\BinNode\BinNode\obj\Debug\BinNode.pdb
+C:\Users\Yarden\Desktop\01_BinNode\BinNode\bin\Debug\BinNode.exe.config
+C:\Users\Yarden\Desktop\01_BinNode\BinNode\bin\Debug\BinNode.exe
+C:\Users\Yarden\Desktop\01_BinNode\BinNode\bin\Debug\BinNode.pdb
+C:\Users\Yarden\Desktop\01_BinNode\BinNode\obj\Debug\BinNode.csproj.AssemblyReference.cache
+C:\Users\Yarden\Desktop\01_BinNode\BinNode\obj\Debug\BinNode.csproj.CoreCompileInputs.cache
+C:\Users\Yarden\Desktop\01_BinNode\BinNode\obj\Debug\BinNode.exe
+C:\Users\Yarden\Desktop\01_BinNode\BinNode\obj\Debug\BinNode.pdb
